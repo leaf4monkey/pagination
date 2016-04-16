@@ -32,4 +32,4 @@ collection: 发布时使用的数据表。如果未指定Pagination实例的name
 `getPage ():` 获取当前页文档。
 `start ():` 手动启动分页的订阅。`autorun`指定为true时需要调用该方法。
 `started ():` 返回当前分页的订阅是否已启动，`autorun`指定为true时可使用。
-`stop ():` 停止当前分页的订阅，`autorun`指定为true时可使用。未测试。
+`stop ():` 停止当前分页的订阅，`autorun`指定为true时可使用。未测试。"# pagination" 
